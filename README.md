@@ -18,6 +18,7 @@
 <br />
 
 <!-- About the Project -->
+
 ## About the Project
 
 A simple script that tracks the exam results on the DGT and sends a telegram message with the conclussion once published
