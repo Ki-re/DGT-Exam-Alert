@@ -40,6 +40,7 @@ Download the chromedriver version that matches your chrome version:
 https://chromedriver.chromium.org/downloads
 ```
 
+<!-- Get Started -->
 ### Get Started
 
 Clone the project
