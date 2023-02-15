@@ -31,8 +31,10 @@ In order to run this script you will need:
  pip install selenium
 ```
 
+Download the chromedriver version that matches your chrome version: 
+
 ```bash
- Download the chromedriver version that matches your chrome version: https://chromedriver.chromium.org/downloads
+https://chromedriver.chromium.org/downloads
 ```
 
 ### Get Started
