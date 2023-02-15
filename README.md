@@ -1,9 +1,9 @@
 <div align="center">
   <img src="logo.png" alt="logo" width="200" height="auto" />
-  <h1>API_ControlTV</h1>
+  <h1>DGT Exam Alert</h1>
   
   <p>
-    A lightweight API to control TV's via CEC-Client with a Raspberry Pi
+    A simple bot that sends you a message once an exam result is published
   </p>
   
 <h4>
