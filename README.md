@@ -45,12 +45,6 @@ Clone the project
   git clone https://github.com/Ki-re/dgt_exam_alert.git
 ```
 
-Clone the project
-
-```bash
-  git clone https://github.com/Ki-re/dgt_exam_alert.git
-```
-
 Create your telegram bot with BotFather
 
 ```bash
