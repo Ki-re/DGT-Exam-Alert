@@ -10,6 +10,8 @@
     <a href="https://github.com/Ki-re/dgt_exam_alert/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/Ki-re/dgt_exam_alert/issues/">Request Feature</a>
+  <span> · </span>
+    <a href="https://github.com/Ki-re/dgt_exam_alert/pulls">Contribute</a>
   </h4>
 </div>
 
@@ -74,10 +76,6 @@ Run the script
 ```
   python3 main.py
 ```
-
-## Contributing
-
-Contributions are always welcome!
 
 <!-- License -->
 ## License
