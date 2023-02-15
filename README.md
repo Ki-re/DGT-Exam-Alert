@@ -1,6 +1,5 @@
-# dgt_exam_alert
 <div align="center">
-  <img src="pi.png" alt="logo" width="200" height="auto" />
+  <img src="/assets/logo.png" alt="logo" width="200" height="auto" />
   <h1>API_ControlTV</h1>
   
   <p>
