@@ -26,7 +26,8 @@ A simple script that tracks the exam results on the DGT and sends a telegram mes
 This script was designed on 2022 and is no longer being mantained, feel free to adapt the code to your needs
 
 <!-- Requirements -->
-### Requirements
+
+## Requirements
 
 In order to run this script you will need: 
 
@@ -41,7 +42,8 @@ https://chromedriver.chromium.org/downloads
 ```
 
 <!-- Get Started -->
-### Get Started
+
+## Get Started
 
 Clone the project
 
@@ -80,6 +82,7 @@ Run the script
 ```
 
 <!-- License -->
+
 ## License
 
 Distributed under the no License. See LICENSE.txt for more information.
