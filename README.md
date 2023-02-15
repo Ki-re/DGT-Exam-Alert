@@ -70,6 +70,11 @@ Set-up the config.py file with your data
   chat_id = ""
 ```
 
+Run the script
+```
+  python3 main.py
+```
+
 ## Contributing
 
 Contributions are always welcome!
