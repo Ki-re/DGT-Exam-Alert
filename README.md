@@ -17,13 +17,15 @@
 
 <br />
 
+## Disclaimer
+
+This script was designed in 2022 and is no longer being maintained. Feel free to adapt the code to your needs.
+
 <!-- About the Project -->
 
 ## About the Project
 
 A simple script that tracks the exam results on the DGT and sends a telegram message with the conclussion once published
-
-This script was designed on 2022 and is no longer being mantained, feel free to adapt the code to your needs
 
 <!-- Requirements -->
 
